@@ -26,7 +26,8 @@ I calculated key statistical measures—mean, standard error, median, mode, stan
 -	Mukesh Ambani: $83.4 billion
 -	Steve Ballmer: $80.7 billion
 	## Top 10 Billionaires Barchart
-![image](https://github.com/user-attachments/assets/cdc5094f-050b-4aaf-8938-1f1b71da1dd7)
+![image](https://github.com/user-attachments/assets/59d2c759-9870-4b9b-9cf3-6153676db6ae)
+
 ### 3.	Age Distribution: Another pivot table was created to analyze the age distribution among the billionaires:
 -	Ages 30-40: 6 billionaires
 -	Ages 40-50: 29 billionaires
@@ -56,5 +57,5 @@ This analysis highlights the significant wealth concentration among a select few
 4.	Policy Implications: Governments could consider the implications of wealth concentration and age distribution in policy-making, particularly in relation to taxation, inheritance laws, and support for emerging industries.
 ## REFERENCE
 1. [Youtube](https://youtube.com/)
-   ## Billionaires Analysis Dashboard
-![image](https://github.com/user-attachments/assets/bb7760d1-35fd-4367-8c25-d54061d0884c)
+
+

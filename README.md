@@ -1,3 +1,12 @@
+# react Counter
+
+[Billionaires.pdf](https://github.com/user-attachments/files/16820442/Billionaires.pdf)
+
+
+
+
+
+
 # World Billionaire Analysis
 
 

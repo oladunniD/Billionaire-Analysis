@@ -36,7 +36,8 @@ I calculated key statistical measures—mean, standard error, median, mode, stan
 -	Ages 80-90: 82 billionaires
 -	Ages 90-100: 27 billionaires
   ## Age Ditribution Barchart
-![image](https://github.com/user-attachments/assets/81801019-66c4-40ea-977c-fec8b4fb859f)
+![image](https://github.com/user-attachments/assets/ccf55f2e-5748-44a3-bb49-c7218a68fce5)
+
 ### 4.	Industry Analysis: I analysed the relationship between the billionaires' final worth and the industries they belong to. Key industries and their cumulative final worths include:
 - Technology: $1.29 trillion
 - Fashion & Retail: $1.16 trillion

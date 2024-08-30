@@ -1,26 +1,19 @@
 # World Billionaire Analysis
-
-![image](https://github.com/user-attachments/assets/bb7760d1-35fd-4367-8c25-d54061d0884c)
-
+![image](https://github.com/user-attachments/assets/af3e44f8-fee9-4934-a017-54e621ade8a9)
 ## Introduction
 The dataset used for this analysis was sourced from [career principle](https://careerprinciples.myflodesk.com/it4shpjirr) and initially provided as a CSV file. It contains a comprehensive table of world billionaires, featuring 21 columns that cover a variety of data points, including: rank, category, person name, country, city, source, industries, self-made status, gender, last name, first name, final worth, birth year, birth month, birthday, CPI by country, GDP by country, life expectancy by country, tax revenue by country, total tax rate by country, and population by country.
-
 ## Data Source/Tools
 The dataset was originally in CSV format and was converted to an XLSX file for easier manipulation. Excel was the primary tool used for data preparation, cleaning, and analysis.
-
 ## Data Preparation and Cleaning
 The data was initially downloaded as a CSV file and then converted to XLSX format. After importing the data, I conducted several preparation and cleaning steps:
 1.	Duplicate Removal: I identified and removed 6 duplicate entries.
 2.	Gender Column Adjustment: For readability, I used the "Find and Replace" function to convert the gender codes ("m" and "f") into their full forms ("male" and "female").
 3.	Age Calculation: Noticing the absence of an age column, I aggregated the birth year, month, and day columns to create a full birth date. I then used the TODAY function to calculate the current date and the YEARFRAC function to compute the age of each billionaire, adding three new columns in total.
 4.	GDP Column Formatting: The GDP-country column contained formatting issues, with commas and dollar signs. I removed these characters and reformatted the column to display numbers correctly.
-
 ## Data Analysis
 To gain insights, I conducted a series of analyses:
-
 ### 1.	Descriptive Statistics: 
 I calculated key statistical measures—mean, standard error, median, mode, standard deviation, variance, kurtosis, skewness, range, minimum, maximum, sum, and count—for several variables, including final worth, birth year, CPI-country, GDP-country, life expectancy by country, tax revenue by country, total tax rate by country, population by country, and age.
-
 ### 2.	Top 10 Billionaires by Final Worth: Using a pivot table, I ranked the billionaires by their final worth. The top 10 are:
 - Bernard Arnault & family: $211 billion
 -	Elon Musk: $180 billion
@@ -32,9 +25,8 @@ I calculated key statistical measures—mean, standard error, median, mode, stan
 -	Carlos Slim Helu & family: $93 billion
 -	Mukesh Ambani: $83.4 billion
 -	Steve Ballmer: $80.7 billion
+	## Top 10 Billionaires Barchart
 ![image](https://github.com/user-attachments/assets/cdc5094f-050b-4aaf-8938-1f1b71da1dd7)
-
-
 ### 3.	Age Distribution: Another pivot table was created to analyze the age distribution among the billionaires:
 -	Ages 30-40: 6 billionaires
 -	Ages 40-50: 29 billionaires
@@ -43,6 +35,7 @@ I calculated key statistical measures—mean, standard error, median, mode, stan
 -	Ages 70-80: 114 billionaires
 -	Ages 80-90: 82 billionaires
 -	Ages 90-100: 27 billionaires
+  ## Age Ditribution Barchart
 ![image](https://github.com/user-attachments/assets/81801019-66c4-40ea-977c-fec8b4fb859f)
 ### 4.	Industry Analysis: I analysed the relationship between the billionaires' final worth and the industries they belong to. Key industries and their cumulative final worths include:
 - Technology: $1.29 trillion
@@ -52,17 +45,15 @@ I calculated key statistical measures—mean, standard error, median, mode, stan
 - Manufacturing: $423 billion
 ## Data Visualization
 - Bar Charts: Used to visualize the top 10 billionaires by final worth and the age distribution of billionaires.
-
 - Area Chart: Depicted the relationship between final worth and the industries they belong to.
-
 ## Conclusion
 This analysis highlights the significant wealth concentration among a select few industries, particularly Technology and Fashion & Retail, which together account for a substantial portion of the total wealth. Age distribution analysis shows that the majority of billionaires are in their 60s and 70s, indicating a trend where individuals accumulate significant wealth later in life.
-
 ## Recommendations
 1.	Investment Focus: Stakeholders in the financial sector should consider focusing on industries like Technology and Fashion & Retail, which exhibit the highest wealth concentrations among billionaires.
 2.	Wealth Management Services: Given the age distribution, wealth management services should be tailored to cater to older clients who may be looking to plan their estates or ensure their wealth is preserved for future generations.
 3.	Further Analysis: It would be beneficial to explore the geographic distribution of these billionaires to identify potential markets for investment or philanthropy.
 4.	Policy Implications: Governments could consider the implications of wealth concentration and age distribution in policy-making, particularly in relation to taxation, inheritance laws, and support for emerging industries.
-
 ## REFERENCE
 1. [Youtube](https://youtube.com/)
+   ## Billionaires Analysis Dashboard
+![image](https://github.com/user-attachments/assets/bb7760d1-35fd-4367-8c25-d54061d0884c)

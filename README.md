@@ -1,5 +1,10 @@
 # World Billionaire Analysis
 
+
+
+
+![Billionaires.pdf](https://github.com/user-attachments/files/16820317/Billionaires.pdf)
+
 ## Introduction
 The dataset used for this analysis was sourced from [career principle](https://careerprinciples.myflodesk.com/it4shpjirr) and initially provided as a CSV file. It contains a comprehensive table of world billionaires, featuring 21 columns that cover a variety of data points, including: rank, category, person name, country, city, source, industries, self-made status, gender, last name, first name, final worth, birth year, birth month, birthday, CPI by country, GDP by country, life expectancy by country, tax revenue by country, total tax rate by country, and population by country.
 

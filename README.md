@@ -58,4 +58,8 @@ This analysis highlights the significant wealth concentration among a select few
 ## REFERENCE
 1. [Youtube](https://youtube.com/)
 
+😄
+👏
+👍
+
 

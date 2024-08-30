@@ -32,6 +32,7 @@ I calculated key statistical measures—mean, standard error, median, mode, stan
 -	Carlos Slim Helu & family: $93 billion
 -	Mukesh Ambani: $83.4 billion
 -	Steve Ballmer: $80.7 billion
+![image](https://github.com/user-attachments/assets/cdc5094f-050b-4aaf-8938-1f1b71da1dd7)
 
 
 ### 3.	Age Distribution: Another pivot table was created to analyze the age distribution among the billionaires:
